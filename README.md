@@ -1,2 +1,4 @@
-# app-dev
-My first repository
+# Movies ni Stanley Garcia
+- **Vikings**
+- **Alice in Borderland**
+- **Hunger Games**
